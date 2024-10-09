@@ -1,6 +1,3 @@
-
-
-```markdown
 # Movie List App
 
 ## Overview
@@ -36,7 +33,7 @@ Ensure you have the following installed on your machine:
 
    ```bash
    git clone https://github.com/your-username/movie-list-app.git
-   ```
+
 
 2. **Navigate into the project directory**:
 
@@ -87,3 +84,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - [Bootstrap](https://getbootstrap.com/)
 ```
 
+### Instructions for Use:
+- Copy the above Markdown code into a file named `README.md` in your project directory.
+- Replace `your-username` in the clone command with your actual GitHub username.
+- Ensure that you have a screenshot saved in the `assets` folder as specified, or adjust the path as needed.
